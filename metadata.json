@@ -1,0 +1,7 @@
+{
+  "name": "AI Career Path Recommender",
+  "description": "A sophisticated AI-powered career advisor that analyzes your skills, interests, and personality to provide personalized career roadmaps and market insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
